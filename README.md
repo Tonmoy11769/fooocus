@@ -1,0 +1,2 @@
+# fooocus
+AI for img 
